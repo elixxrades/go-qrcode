@@ -1,4 +1,4 @@
-module github.com/elixxrades/ui
+module github.com/elixxrades/go-qrcode
 
 go 1.18
 
